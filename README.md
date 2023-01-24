@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ronak-bisht/ronak-bisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Ronak Bisht</h1>
+
+  <h1 align="center">Hi 👋, I'm Ronak Bisht</h1>
+  
+
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
 
